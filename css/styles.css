@@ -320,7 +320,7 @@ top: 6px;
 /*service*/
 .my-service{
     background-color: var(--clr-dark);
-    background-image: url("./img/para8.jpg") ;
+    background-image: url("../img/para8.jpg") ;
     background-size:cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
